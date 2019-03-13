@@ -1,0 +1,440 @@
+{
+  "Pizza Choice": [
+    {
+      "id": "1",
+      "name": "Classic Pizza",
+      "flavor": [
+        {
+          "Cheese": [
+            {
+              "size": "10",
+              "prize": "175.00"
+            },
+            {
+              "size": "14",
+              "prize": "285.00"
+            },
+            {
+              "size": "18",
+              "prize": "440.00"
+            }
+          ]
+        },
+        {
+          "Ny Classic": [
+            {
+              "size": "10",
+              "prize": "210.00"
+            },
+            {
+              "size": "14",
+              "prize": "340.00"
+            },
+            {
+              "size": "18",
+              "prize": "440.00"
+            }
+          ]
+        },
+        {
+          "PEPP & MUSHRM": [
+            {
+              "size": "10",
+              "prize": "220.00"
+            },
+            {
+              "size": "14",
+              "prize": "250.00"
+            },
+            {
+              "size": "18",
+              "prize": "540.00"
+            }
+          ]
+        },
+        {
+          "MANHATTAN": [
+            {
+              "size": "10",
+              "prize": "250.00"
+            },
+            {
+              "size": "14",
+              "prize": "295.00"
+            },
+            {
+              "size": "18",
+              "prize": "565.00"
+            }
+          ]
+        },
+        {
+          "GARDEN SPECIAL": [
+            {
+              "size": "10",
+              "prize": "210.00"
+            },
+            {
+              "size": "14",
+              "prize": "340.00"
+            },
+            {
+              "size": "18",
+              "prize": "530.00"
+            }
+          ]
+        },
+        {
+          "HAWAIIAN": [
+            {
+              "size": "10",
+              "prize": "210.00"
+            },
+            {
+              "size": "14",
+              "prize": "340.00"
+            },
+            {
+              "size": "18",
+              "prize": "530.00"
+            }
+          ]
+        },
+        {
+          "NY FINEST": [
+            {
+              "size": "10",
+              "prize": "260.00"
+            },
+            {
+              "size": "14",
+              "prize": "420.00"
+            },
+            {
+              "size": "18",
+              "prize": "575.00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Specialty Pizza",
+      "flavor": [
+        {
+          "TRIBECA MUSHROOM": [
+            {
+              "size": "10",
+              "prize": "245.00"
+            },
+            {
+              "size": "14",
+              "prize": "390.00"
+            },
+            {
+              "size": "18",
+              "prize": "560.00"
+            }
+          ]
+        },
+        {
+          "ANCHOVY LOVERS": [
+            {
+              "size": "10",
+              "prize": "275.00"
+            },
+            {
+              "size": "14",
+              "prize": "450.00"
+            },
+            {
+              "size": "18",
+              "prize": "595.00"
+            }
+          ]
+        },
+        {
+          "#4 CHEESE": [
+            {
+              "size": "10",
+              "prize": "250.00"
+            },
+            {
+              "size": "14",
+              "prize": "400.00"
+            },
+            {
+              "size": "18",
+              "prize": "560.00"
+            }
+          ]
+        },
+        {
+          "CORONA CHICKEN": [
+            {
+              "size": "10",
+              "prize": "250.00"
+            },
+            {
+              "size": "14",
+              "prize": "420.00"
+            },
+            {
+              "size": "18",
+              "prize": "575.00"
+            }
+          ]
+        },
+        {
+          "GOURMENT GARDEN": [
+            {
+              "size": "10",
+              "prize": "250.00"
+            },
+            {
+              "size": "14",
+              "prize": "410.00"
+            },
+            {
+              "size": "18",
+              "prize": "585.00"
+            }
+          ]
+        },
+        {
+          "ROASTED GARLIC": [
+            {
+              "size": "10",
+              "prize": "240.00"
+            },
+            {
+              "size": "14",
+              "prize": "405.00"
+            },
+            {
+              "size": "18",
+              "prize": "505.00"
+            }
+          ]
+        },
+        {
+          "FOUR SEASONS": [
+            {
+              "size": "10",
+              "prize": "275.00"
+            },
+            {
+              "size": "14",
+              "prize": "430.00"
+            },
+            {
+              "size": "18",
+              "prize": "590.00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "More Toppings": [
+    {
+      "id": "M1",
+      "name": "CHEESE",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "name": "BACON",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M3",
+      "name": "GROUND BEEF",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M4",
+      "name": "HAM",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M5",
+      "name": "ITALIAN SAUSAGE",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M6",
+      "name": "PEPPERONI",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M7",
+      "name": "SALAMI",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M8",
+      "name": "CAPERS",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M9",
+      "name": "ROASTED GARLIC",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M10",
+      "name": "BELL PEPPER",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    },
+    {
+      "id": "M11",
+      "name": "MUSHROOMS",
+      "toppings": [
+        {
+          "size": "10",
+          "prize": "35.00"
+        },
+        {
+          "size": "14",
+          "prize": "45.00"
+        },
+        {
+          "size": "18",
+          "prize": "60.00"
+        }
+      ]
+    }
+  ]
+}
